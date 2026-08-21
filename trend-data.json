@@ -1,0 +1,44 @@
+{
+  "updated_at": null,
+  "updated_display": "Editorial seed data shown until the first automated refresh",
+  "trending": [
+    {
+      "title": "Walking Pads",
+      "category": "Fitness",
+      "stage": "Hot",
+      "signal": "Editorial watchlist",
+      "search_volume": "Product watch",
+      "amazon_query": "walking pad",
+      "slug": "walking-pads"
+    },
+    {
+      "title": "Smart Bird Feeders",
+      "category": "Home & Garden",
+      "stage": "Rising",
+      "signal": "Editorial watchlist",
+      "search_volume": "Product watch",
+      "amazon_query": "smart bird feeder camera",
+      "slug": "smart-bird-feeders"
+    },
+    {
+      "title": "Portable Cooling",
+      "category": "Home & Garden",
+      "stage": "Seasonal",
+      "signal": "Editorial watchlist",
+      "search_volume": "Seasonal watch",
+      "amazon_query": "portable air conditioner",
+      "slug": "portable-cooling"
+    },
+    {
+      "title": "Mini Thermal Printers",
+      "category": "Technology",
+      "stage": "Rising",
+      "signal": "Editorial watchlist",
+      "search_volume": "Product watch",
+      "amazon_query": "mini thermal printer",
+      "slug": "mini-thermal-printers"
+    }
+  ],
+  "rising": [],
+  "reports": []
+}

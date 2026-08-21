@@ -1,0 +1,1 @@
+document.querySelectorAll('.category-pills button').forEach(button=>button.addEventListener('click',()=>{const input=document.getElementById('searchInput');input.value=button.textContent;input.focus();}));document.getElementById('searchForm').addEventListener('submit',event=>event.preventDefault());
